@@ -9,7 +9,6 @@ public class ManageAutoSevice {
 
         System.out.println("Masina: " +  audiA6.make + " de modelul: " + audiA6.model + " si culoarea: "+ audiA6.color);
 
-
         Car mercedesSclass = new Car("SClass");
 
         Tool ciocan = new Tool();
