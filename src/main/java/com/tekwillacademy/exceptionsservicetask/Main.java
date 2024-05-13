@@ -9,6 +9,6 @@ public class Main {
 //        System.out.println(TextManager.getTheTextLenghtWintTryCatchAndFinaly("Alex"));
 //        System.out.println(TextManager.getTheTextLenghtWintTryCatchAndFinaly(""));
 //        System.out.println(TextManager.getTheTextLengthIfElse("Marcu"));
-        System.out.println(TextManager.getTheTextLengthIfElse(""));
+        System.out.println(TextManager.getTheTextLengthIfElse(null));
     }
 }
