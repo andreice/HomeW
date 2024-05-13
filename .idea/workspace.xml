@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84590ad7-99ba-4912-8fac-17181e033dd8" name="Changes" comment="updated classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/classesandobjects/autoservicetask/ManageAutoSevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/classesandobjects/autoservicetask/ManageAutoSevice.java" afterDir="false" />
-    </list>
+    <list default="true" id="84590ad7-99ba-4912-8fac-17181e033dd8" name="Changes" comment="Added the implementation of Checked and Unchecked exceptions." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +38,22 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/andreice/HomeW.git&quot;,
-    &quot;accountId&quot;: &quot;224b0b22-7dcd-4954-bc43-d09c05e80c3d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andreice/HomeW.git",
+    "accountId": "0d0d4296-6bb7-44f2-b08b-6c4b72733cc8"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "andreice",
+    "repository": "HomeW"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -66,11 +73,31 @@
     "Application.ManageAutoSevice.executor": "Run",
     "Application.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "TA-7__Exception",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwillacademy.exceptionsservicetask.Main" />
+      <module name="HomeW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekwillacademy.exceptionsservicetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713971987359</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <option name="closed" value="true" />
+      <created>1715615072487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715615072487</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <option name="closed" value="true" />
+      <created>1715617516708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715617516709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +147,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="TA-7_Exception" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -113,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Defined the Git WorkFlow for future development strategy." />
     <MESSAGE value="updated classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated classes" />
+    <MESSAGE value="Added the implementation of Checked and Unchecked exceptions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation of Checked and Unchecked exceptions." />
   </component>
 </project>
