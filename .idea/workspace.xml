@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84590ad7-99ba-4912-8fac-17181e033dd8" name="Changes" comment="updated classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/exceptionsservicetask/ArithmeticOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/exceptionsservicetask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/exceptionsservicetask/TextManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/classesandobjects/autoservicetask/ManageAutoSevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tekwillacademy/classesandobjects/autoservicetask/ManageAutoSevice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +43,22 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/andreice/HomeW.git&quot;,
-    &quot;accountId&quot;: &quot;224b0b22-7dcd-4954-bc43-d09c05e80c3d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andreice/HomeW.git",
+    "accountId": "0d0d4296-6bb7-44f2-b08b-6c4b72733cc8"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "andreice",
+    "repository": "HomeW"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -66,7 +78,7 @@
     "Application.ManageAutoSevice.executor": "Run",
     "Application.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "TA-7__Exception",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
@@ -104,7 +116,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="TA-7_Exception" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
